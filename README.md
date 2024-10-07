@@ -148,3 +148,10 @@ This project covers a comprehensive guide to React, from basics to advanced topi
 ## License
 
 This project is licensed under the Apache-2.0 license - see the [LICENSE](LICENSE) file for details.
+
+## Getting Started
+
+To get started with the examples in this repository, clone it to your local machine and open it in your preferred C# IDE. Follow the instructions in each chapter and section to explore different aspects of the C# language.
+
+```bash
+git clone https://github.com/DTDucas/StudyReactJs.git
